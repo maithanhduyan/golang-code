@@ -1,0 +1,8 @@
+# Build files
+*.o
+*.a
+*.exe
+
+# Dependency directories
+/vendor/
+/go.sum
