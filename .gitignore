@@ -9,3 +9,6 @@
 
 # SQLite Database
 *.db
+
+# Python venv
+/venv/
